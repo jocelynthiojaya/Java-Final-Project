@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Inventory Management App</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="confirm">Confirm</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="position">Enter Position</string>
+    <string name="noinfo">No Info</string>
+</resources>
